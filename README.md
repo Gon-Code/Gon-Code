@@ -2,7 +2,7 @@
 
   <!-- Título animado -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E1DEDE&center=true&width=600&lines=Welcome+to+my+Github+Page!;Enjoy+the+journey+through+code+🧩" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E1DEDE&center=true&width=600&lines=Welcome+to+my+Github+Page!;Enjoy+the+journey+through+code+%F0%9F%A7%A9" alt="Typing SVG" />
   </a>
 
   <br/>
