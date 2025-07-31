@@ -16,17 +16,24 @@
 
   <br/>
 
-  <!-- Descripción con gifs -->
-  <p>
+<!-- Descripción con gifs -->
+<div align="center">
+  <div style="margin-bottom: 10px;">
     <b>💻 I'm <span style="color:#00ccff;">Gon-Code</span> — Software Developer</b>
     <img src="https://media.tenor.com/tD5rXhhPpuUAAAAi/sonic.gif" width="40" style="vertical-align: middle;" />
-    <br/>
+  </div>
+
+  <div style="margin-bottom: 10px;">
     🎮 Game dev in my free time && Retro Tech Enjoyer 📺
     <img src="https://media.tenor.com/y-bmTzMpos0AAAAi/mario-mario-and-luigi.gif" width="40" style="vertical-align: middle;" />
-    <br/>
+  </div>
+
+  <div>
     🧠 Always exploring new tools and ideas to level up
     <img src="https://media.tenor.com/Sgp270pLW2QAAAAj/megaman-x-piki.gif" width="50" style="vertical-align: middle;" />
-  </p>
+  </div>
+</div>
+
 
   <!-- Imagen temática en tabla para alinear -->
   <table>
