@@ -19,7 +19,7 @@
 <!-- Descripción con gifs -->
 <div align="center">
   <div style="margin-bottom: 10px;">
-    <b>💻 I'm <span style="color:#00ccff;">Gon-Code</span> — Software Developer</b>
+    <b>💻 I'm <span style="color:#00ccff;">Gon-Code</span> — Software Engineer </b>
     <img src="https://media.tenor.com/tD5rXhhPpuUAAAAi/sonic.gif" width="40" style="vertical-align: middle;" />
   </div>
 
