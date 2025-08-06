@@ -24,16 +24,16 @@
   </div>
 
   <div style="margin-bottom: 10px;">
-    🎮 Game dev in my free time && Retro Tech Enjoyer 📺
+    <b> 🎮 Game dev in my free time </b>
     <img src="https://media.tenor.com/y-bmTzMpos0AAAAi/mario-mario-and-luigi.gif" width="40" style="vertical-align: middle;" />
   </div>
 
   <div>
-    🧠 Always exploring new tools and ideas to level up
+     <b> 📺🪛 Retro Tech Enjoyer </b>
     <img src="https://media.tenor.com/Sgp270pLW2QAAAAj/megaman-x-piki.gif" width="50" style="vertical-align: middle;" />
   </div>
 </div>
-
+<br>
 
   <!-- Imagen temática en tabla para alinear -->
   <table>
